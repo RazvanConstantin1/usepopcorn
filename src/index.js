@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-// import App from "./App v1.js";
-import App from "./App v2.js";
+import App from "./App.js";
 
 // import StarRating from "./StarRating.js";
 
